@@ -22,15 +22,15 @@ Q4弹性计算体系，Q系统临时占用的大规模分布资源完成相应�
 
 ## [包含节点](https://github.com/OS-Q/Q4/wiki/index) 
 
-#### M10:[资源构建](https://github.com/OS-Q/M10)
+#### M10：[资源构建](https://github.com/OS-Q/M10)
 
 用于完成需求资源的初始构建，例如源码编译和模型训练
 
-#### M11:[并发处理](https://github.com/OS-Q/M11) 
+#### M11：[并发处理](https://github.com/OS-Q/M11) 
 
 用于处理特殊状态下的大量事件，扩展相应短板性能
 
-#### M12:[深度加速](https://github.com/OS-Q/M12)
+#### M12：[深度加速](https://github.com/OS-Q/M12)
 
 对于庞大、有时限和算力门槛的状态提供算力辅助
 
