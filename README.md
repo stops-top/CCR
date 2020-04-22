@@ -19,7 +19,7 @@
         * H03：[STM8S](https://github.com/OS-Q/H03)
         * H04：[STM8L](https://github.com/OS-Q/H04)
     * M03：[AVR](https://github.com/OS-Q/M03)
-        * H05：[ATMEGA328P](https://github.com/OS-Q/H05)
+        * H05：[MEGA328P](https://github.com/OS-Q/H05)
         * H06：[LGT8F328P](https://github.com/OS-Q/H06)
 * Q4：[Universal MCU](https://github.com/OS-Q/Q4)
     * M04：[Cortex](https://github.com/OS-Q/M04)
