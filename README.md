@@ -1,26 +1,28 @@
-﻿# [数据呈现](https://github.com/OS-Q/Q4)
-[![sites](OS-Q/OS-Q.png)](http://www.OS-Q.com)
-#### 归属边缘设备：[Edge](https://github.com/OS-Q/Edge-Q)
-#### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
-Edge-Q -> 体系 Q[1,4] -> 节点 M[1,12] -> 平台 W[1,52] -> 设备 D[1,365]
-### [体系描述](https://github.com/OS-Q/Q4/wiki)
+﻿# [Category Q4](https://github.com/OS-Q/Q4)
 
-数据消费体系是系统用于对外输出控制，完成数据的消费过程
+[![sites](http://182.61.61.133/link/resources/OSQ.png)](http://www.OS-Q.com)
 
-### [体系资源](https://github.com/OS-Q/Q4)
+### [Category描述](https://github.com/OS-Q/Q4/wiki) 
 
-- [文档](docs/)
-- [资源](src/)
+[Category Q4](https://github.com/OS-Q/Q4) 通用计算框架下开发
 
-### [同级体系](https://github.com/OS-Q/Edge-Q)
+### [拓扑关系](https://github.com/OS-Q)
 
-- Q1：[数据生产](https://github.com/OS-Q/Q1)
-- Q2：[数据搬运](https://github.com/OS-Q/Q2)
-- Q3：[边缘计算](https://github.com/OS-Q/Q3)
-- Q4：[数据呈现](https://github.com/OS-Q/Q4)
-    - M10：[定制显示](https://github.com/OS-Q/M10)
-    - M11：[标准输出](https://github.com/OS-Q/M11)
-    - M12：[网页服务](https://github.com/OS-Q/M12)
+* Q4：[Low end 8bits](https://github.com/OS-Q/Q4)
+    * M1：[8051](https://github.com/OS-Q/M1)
+    * M2：[STM8](https://github.com/OS-Q/M2)
+    * M3：[AVR](https://github.com/OS-Q/M3)
+* Q2：[Universal MCU](https://github.com/OS-Q/Q2)
+    * M4：[GD32V](https://github.com/OS-Q/M4)
+    * M5：[STM32](https://github.com/OS-Q/M5)
+    * M6：[K210](https://github.com/OS-Q/M6)
+* Q4：[Popular IoT SoC](https://github.com/OS-Q/Q4)
+    * M7：[ESP](https://github.com/OS-Q/M7)
+    * M8：[NRF](https://github.com/OS-Q/M8)
+    * M9：[RDA](https://github.com/OS-Q/M9)
+* Q4：[Normal computer](https://github.com/OS-Q/Q4)
+    * M10：[arm](https://github.com/OS-Q/M10)
+    * M11：[linux](https://github.com/OS-Q/M11)
+    * M12：[window](https://github.com/OS-Q/M12)
 
-### [OS-Q : Operation System for edge devices](http://www.OS-Q.com/Edge/Q4)
-####  2019-6-18
+### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com/Q4)
